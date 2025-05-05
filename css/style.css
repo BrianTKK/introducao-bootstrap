@@ -14,3 +14,7 @@ section{
 .container{
     margin-bottom: 20px;
 }
+
+.my-font{
+    font-family: 'Poppins', sans-serif;
+}
