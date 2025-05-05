@@ -10,3 +10,7 @@ section{
 .text {
     color: var(--bs-blue);
 }
+
+.container{
+    margin-bottom: 20px;
+}
